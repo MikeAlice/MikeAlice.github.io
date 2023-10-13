@@ -17,3 +17,16 @@ img {
     cursor: url(https://cdn.jsdelivr.net/gh/constown/HexoCustomFile/public/cursors/pointer.cur),
         default;
 }
+
+.footer-a {
+    color: rgb(43, 147, 138) !important;
+}
+
+#dd {
+    color: rgb(47, 152, 129) !important;
+}
+
+.qq {
+    height: 20px;
+    width: 55px;
+}
